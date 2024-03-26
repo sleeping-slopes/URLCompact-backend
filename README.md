@@ -1,13 +1,6 @@
-# backend for vue.js audio website
+# backend for URLCompact
 
-Front-end repo is available at https://github.com/sleeping-slopes/vue.js-front-end
-
-### Technologies used
-- Express.js;
-- MySQL;
-- REST API;
-- Multer;
-- JSON Web Token.
+Front-end repo is available at https://github.com/sleeping-slopes/URLCompact
 
 ## Project setup
 ```
